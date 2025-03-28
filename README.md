@@ -29,28 +29,7 @@
  - 𝐂𝐋𝐎𝐍𝐀𝐑𝐄 𝐋𝐀 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 [qui](https://github.com/GabWT333/Gab333/fork) 
  - 𝐂𝐀𝐌𝐁𝐈𝐀𝐑𝐄 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐏𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐑𝐈𝐎 [qui](https://github.com/GabWT333/Gab333/blob/master/config.js) 
 
-### 🔵 CAFIREXOS 
-> 🟢 Attiva Gab333 su un Servizio di hosting ad alte prestazioni
-
-<a href="https://www.cafirexos.com"><img src="https://r2.cafirexos.com/logos%2Flogo_cfros_2000x2000.png" height="125px"></a>
-
-### Informazioni dell' Host
-
-- **Pagina principale:** [`Cafirexos`](https://www.cafirexos.com)
-- **Dashboard:** [`Clicca qui`](https://dash.cafirexos.com)
-- **Pannello:** [`Clicca qui`](https://panel.cafirexos.com)
-- **Canale WhatsApp:** [`Clicca qui`](https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h)
-- **Gruppo WhatsApp:** [`Clicca qui`](https://chat.whatsapp.com/JhrcigFtXpW4OzdhE9Jdq3)
-- **Contatto WhatsApp:** [`+39 376 203 0481`](https://wa.me/393762030481)
-
-### ∞ INFINITY-HOST
-> 🟢 Attiva Gab333 su un Servizio di hosting ad alte prestazioni
-
-<a href="https://dashboard.infinitywa.xyz"><img src="https://telegra.ph/file/4d847e6cfe03b2b2c77ab.png" height="125px"></a>
-
-### Informazioni dell' Host
-- **Dashboard:** [`Clicca qui`](https://dashboard.infinitywa.xyz)
-- **Pannello:** [`Clicca qui`](https://live.panel-infinitywa.store)
+### `✦ 𝐂𝐎𝐍𝐓𝐀𝐓𝐓𝐈`
 - **Canale WhatsApp:** [`Clicca qui`](https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h)
 - **Gruppo WhatsApp:** [`Clicca qui`](https://chat.whatsapp.com/JhrcigFtXpW4OzdhE9Jdq3)
 - **Contatto WhatsApp:** [`+39 376 203 0481`](https://wa.me/393762030481)
