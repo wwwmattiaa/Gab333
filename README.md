@@ -85,7 +85,7 @@ DIGITA QUESTI COMANDI:
 ### Staff
 
 <p>
-  <img src="https://qu.ax/dguVx.jpg" width="100px" height="50px" alt="Gab Owner">  **Gab Owner** <br>
+  <img src="https://qu.ax/dguVx.jpg" width="100px" height="100px" alt="Gab Owner">  **Gab Owner** <br>
   <img src="https://example.com/link_to_image_of_admin.jpg" width="50px" height="50px" alt="Admin">  **Admin** <br>
   <img src="https://example.com/link_to_image_of_mod.jpg" width="50px" height="50px" alt="Moderator">  **Moderator** <br>
   <img src="https://example.com/link_to_image_of_support.jpg" width="50px" height="50px" alt="Support">  **Support** <br>
