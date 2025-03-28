@@ -113,6 +113,11 @@ DIGITA QUESTI COMANDI:
 </p>
 
 
+<p style="display: flex; align-items: center;">
+  <img src="https://qu.ax/kqvUq.jpg" width="100px" height="100px" alt="Death" style="margin-right: 10px;">
+  <span style="font-size: 16px; font-weight: bold;">𝐃𝐞𝐚𝐭𝐡 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</span>
+  <a href="https://wa.me/447365589428" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Developer Owner del bot</a>
+</p>
 
 
 ### ``` ✨ARMYHOSTING✨ ```
