@@ -40,22 +40,30 @@
 ### `✦ 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 𝐏𝐄𝐑 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐑𝐄 𝐋𝐀 𝐂𝐀𝐑𝐓𝐄𝐋𝐋𝐀 𝐃𝐈 Gab333`
 ```bash 
  cd /sdcard && rm -rf Gab333 && git clone https://github.com/GabWT333/Gab333.git && cd Gab333
-
+```
 ✦ 𝐀𝐓𝐓𝐈𝐕𝐀 𝐆𝐚𝐛333 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 
 DIGITA QUESTI COMANDI:
 
-termux-setup-storage 
-pkg upgrade -y && pkg update -y 
-pkg install git -y 
-pkg install ffmpeg -y 
-pkg install imagemagick -y 
-pkg install yarn 
-cd /sdcard && rm -rf Gab333 && git clone https://github.com/GabWT333/Gab333.git
-cd /sdcard/Gab333 
-yarn
-npm start
+```termux-setup-storage```
 
+```pkg upgrade -y && pkg update -y```
+
+```pkg install git -y```
+
+```pkg install ffmpeg -y```
+
+```pkg install imagemagick -y```
+
+```pkg install yarn```
+
+```cd /sdcard && rm -rf Gab333 && git clone https://github.com/GabWT333/Gab333.git
+cd /sdcard/Gab333```
+
+```yarn```
+
+```npm start```
+```
 ✦ 𝐀𝐕𝐕𝐈𝐀 𝐆𝐚𝐛333 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 
 DIGITA QUESTI COMANDI:
@@ -70,11 +78,11 @@ DIGITA QUESTI COMANDI:
 > cd /sdcard/Gab333 
 > rm -rf Sessioni 
 > npm start
-```
+
 
 ### Staff
 
-<p align="center">
+<p>
   <img src="https://qu.ax/dguVx.jpg" width="50px" height="50px" alt="Gab Owner">  **Gab Owner** <br>
   <img src="https://example.com/link_to_image_of_admin.jpg" width="50px" height="50px" alt="Admin">  **Admin** <br>
   <img src="https://example.com/link_to_image_of_mod.jpg" width="50px" height="50px" alt="Moderator">  **Moderator** <br>
