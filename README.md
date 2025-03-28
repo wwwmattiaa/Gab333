@@ -45,25 +45,27 @@
 
 DIGITA QUESTI COMANDI:
 
-```termux-setup-storage```
+```bash
+termux-setup-storage
 
-```pkg upgrade -y && pkg update -y```
+pkg upgrade -y && pkg update -y
 
-```pkg install git -y```
+pkg install git -y
 
-```pkg install ffmpeg -y```
+pkg install ffmpeg -y
 
-```pkg install imagemagick -y```
+pkg install imagemagick -y
 
-```pkg install yarn```
+pkg install yarn
 
-```cd /sdcard && rm -rf Gab333 && git clone https://github.com/GabWT333/Gab333.git
-cd /sdcard/Gab333```
+cd /sdcard && rm -rf Gab333 && git clone https://github.com/GabWT333/Gab333.git
+cd /sdcard/Gab333
 
-```yarn```
+yarn
 
-```npm start```
+npm start
 ```
+
 ✦ 𝐀𝐕𝐕𝐈𝐀 𝐆𝐚𝐛333 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 
 DIGITA QUESTI COMANDI:
@@ -83,7 +85,7 @@ DIGITA QUESTI COMANDI:
 ### Staff
 
 <p>
-  <img src="https://qu.ax/dguVx.jpg" width="50px" height="50px" alt="Gab Owner">  **Gab Owner** <br>
+  <img src="https://qu.ax/dguVx.jpg" width="100px" height="50px" alt="Gab Owner">  **Gab Owner** <br>
   <img src="https://example.com/link_to_image_of_admin.jpg" width="50px" height="50px" alt="Admin">  **Admin** <br>
   <img src="https://example.com/link_to_image_of_mod.jpg" width="50px" height="50px" alt="Moderator">  **Moderator** <br>
   <img src="https://example.com/link_to_image_of_support.jpg" width="50px" height="50px" alt="Support">  **Support** <br>
