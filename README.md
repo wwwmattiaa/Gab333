@@ -86,31 +86,31 @@ DIGITA QUESTI COMANDI:
 <p style="display: flex; align-items: center;">
   <img src="https://qu.ax/dguVx.jpg" width="100px" height="100px" alt="Gab Owner" style="margin-right: 10px;">
   <span style="font-size: 16px; font-weight: bold;">𝐆𝐚𝐛 𝐎𝐰𝐧𝐞𝐫</span>
-  <a href="https://wa.me/393762030481" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Chat on WhatsApp</a>
+  <a href="https://wa.me/393762030481" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Creatore - Owner del bot</a>
 </p>
 
 <p style="display: flex; align-items: center;">
   <img src="https://qu.ax/blsDp.jpg" width="100px" height="100px" alt="Army" style="margin-right: 10px;">
   <span style="font-size: 14px; font-weight: bold;">𝐴𝑟𝑚𝑦</span>
-  <a href="https://t.me/retedna" style="background-color: #0088cc; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Go to Telegram</a>
+  <a href="https://t.me/retedna" style="background-color: #0088cc; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Proprietario Server</a>
 </p>
 
 <p style="display: flex; align-items: center;">
   <img src="https://qu.ax/FWOZE.jpg" width="100px" height="100px" alt="Cristofer" style="margin-right: 10px;">
   <span style="font-size: 14px; font-weight: bold;">𝐶𝑟𝑖𝑠𝑡𝑜𝑓𝑒𝑟</span>
-  <a href="https://wa.me/393276121255" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Chat on WhatsApp</a>
+  <a href="https://wa.me/393276121255" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Co-Owner</a>
 </p>
 
 <p style="display: flex; align-items: center;">
   <img src="https://qu.ax/sisCV.jpg" width="100px" height="100px" alt="Amr" style="margin-right: 10px;">
   <span style="font-size: 14px; font-weight: bold;">𝐴𝑚𝑟</span>
-  <a href="https://wa.me/855976087045" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Chat on WhatsApp</a>
+  <a href="https://wa.me/855976087045" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Gestore Pagamenti Del Server </a>
 </p>
 
 <p style="display: flex; align-items: center;">
   <img src="https://qu.ax/GOFsn.jpg" width="100px" height="100px" alt="Cicco" style="margin-right: 10px;">
   <span style="font-size: 14px; font-weight: bold;">𝐶𝑖𝑐𝑐𝑜</span>
-  <a href="https://wa.me/393715341918" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Chat on WhatsApp</a>
+  <a href="https://wa.me/393715341918" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Donatore Numero</a>
 </p>
 
 <p style="display: flex; align-items: center;">
