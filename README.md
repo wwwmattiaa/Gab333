@@ -77,7 +77,7 @@ DIGITA QUESTI COMANDI:
 DIGITA QUESTI COMANDI:
 
 > cd /sdcard/Gab333 
-> rm -rf Sessioni 
+> rm -rf 333BotSession
 > npm start
 
 
