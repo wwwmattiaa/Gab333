@@ -112,7 +112,3 @@ DIGITA QUESTI COMANDI:
   <a href="https://wa.me/393715341918" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Donatore Numero</a>
 </p>
 
-<p style="display: flex; align-items: center;">
-  <img src="https://example.com/link_to_image_of_davide.jpg" width="100px" height="100px" alt="Davide" style="margin-right: 10px;">
-  <span style="font-size: 14px; font-weight: bold;">𝐷𝑎𝑣𝑖𝑑𝑒</span>
-</p>
