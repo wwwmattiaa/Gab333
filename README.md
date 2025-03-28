@@ -1,5 +1,4 @@
-
-<p align="center">
+p align="center">
   <a href="https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h"><img title="Author" src="https://img.shields.io/badge/Canale%20Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
 </p>
 
@@ -41,3 +40,33 @@
 ### `✦ 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 𝐏𝐄𝐑 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐑𝐄 𝐋𝐀 𝐂𝐀𝐑𝐓𝐄𝐋𝐋𝐀 𝐃𝐈 Gab333`
 ```bash 
  cd /sdcard && rm -rf Gab333 && git clone https://github.com/GabWT333/Gab333.git && cd Gab333
+
+✦ 𝐀𝐓𝐓𝐈𝐕𝐀 𝐆𝐚𝐛333 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
+
+DIGITA QUESTI COMANDI:
+
+termux-setup-storage 
+pkg upgrade -y && pkg update -y 
+pkg install git -y 
+pkg install ffmpeg -y 
+pkg install imagemagick -y 
+pkg install yarn 
+cd /sdcard && rm -rf Gab333 && git clone https://github.com/GabWT333/Gab333.git
+cd /sdcard/Gab333 
+yarn
+npm start
+
+✦ 𝐀𝐕𝐕𝐈𝐀 𝐆𝐚𝐛333 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
+
+DIGITA QUESTI COMANDI:
+
+> cd /sdcard/Gab333 
+> npm start
+
+✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 𝐆𝐚𝐛333
+
+DIGITA QUESTI COMANDI:
+
+> cd /sdcard/Gab333 
+> rm -rf Sessioni 
+> npm start
