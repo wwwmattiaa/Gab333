@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/MoonContentCreator/BixbyBot-Md",
+  "homepage": "https://github.com/GabWT333/Gab333.git",
   "author": {
-    "name": "MoonContentCreator"
+    "name": "333"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MoonContentCreator/BixbyBot-Md.git"
+    "url": "git+https://github.com/GabWT333/Gab333.git"
   },
   "bugs": {
-    "url": "https://github.com/MoonContentCreator/BixbyBot-Md/issues"
+    "url": "https://github.com/GabWT333/Gab333/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
