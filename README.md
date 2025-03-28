@@ -70,3 +70,13 @@ DIGITA QUESTI COMANDI:
 > cd /sdcard/Gab333 
 > rm -rf Sessioni 
 > npm start
+```
+
+### Staff
+
+<p align="center">
+  <img src="https://qu.ax/dguVx.jpg" width="50px" height="50px" alt="Gab Owner">  **Gab Owner** <br>
+  <img src="https://example.com/link_to_image_of_admin.jpg" width="50px" height="50px" alt="Admin">  **Admin** <br>
+  <img src="https://example.com/link_to_image_of_mod.jpg" width="50px" height="50px" alt="Moderator">  **Moderator** <br>
+  <img src="https://example.com/link_to_image_of_support.jpg" width="50px" height="50px" alt="Support">  **Support** <br>
+</p>
