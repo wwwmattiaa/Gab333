@@ -84,9 +84,27 @@ DIGITA QUESTI COMANDI:
 
 ### Staff
 
-<p>
-  <img src="https://qu.ax/dguVx.jpg" width="100px" height="100px" alt="Gab Owner">  **Gab Owner** <br>
-  <img src="https://example.com/link_to_image_of_admin.jpg" width="50px" height="50px" alt="Admin">  **Admin** <br>
-  <img src="https://example.com/link_to_image_of_mod.jpg" width="50px" height="50px" alt="Moderator">  **Moderator** <br>
-  <img src="https://example.com/link_to_image_of_support.jpg" width="50px" height="50px" alt="Support">  **Support** <br>
+<p style="display: flex; align-items: center;">
+  <img src="https://qu.ax/dguVx.jpg" width="100px" height="100px" alt="Gab Owner" style="margin-right: 10px;">
+  <span style="font-size: 16px; font-weight: bold;">**Gab Owner**</span>
+</p>
+
+<p style="display: flex; align-items: center;">
+  <img src="https://example.com/link_to_image_of_army.jpg" width="50px" height="50px" alt="Army" style="margin-right: 10px;">
+  <span style="font-size: 14px; font-weight: bold;">**Army**</span>
+</p>
+
+<p style="display: flex; align-items: center;">
+  <img src="https://qu.ax/FWOZE.jpg" width="50px" height="50px" alt="Cristo" style="margin-right: 10px;">
+  <span style="font-size: 14px; font-weight: bold;">**Cristo**</span>
+</p>
+
+<p style="display: flex; align-items: center;">
+  <img src="https://example.com/link_to_image_of_amr.jpg" width="50px" height="50px" alt="Amr" style="margin-right: 10px;">
+  <span style="font-size: 14px; font-weight: bold;">**Amr**</span>
+</p>
+
+<p style="display: flex; align-items: center;">
+  <img src="https://example.com/link_to_image_of_davide.jpg" width="50px" height="50px" alt="Davide" style="margin-right: 10px;">
+  <span style="font-size: 14px; font-weight: bold;">**Davide**</span>
 </p>
