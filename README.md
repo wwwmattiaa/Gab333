@@ -18,9 +18,8 @@
   <img width="" src="https://qu.ax/irkJC.jpg"> 
 </p> 
 
-### ` 𝐀𝐍𝐓𝐄𝐏𝐑𝐈𝐌𝐀 𝐃𝐄𝐋 𝐌𝐄𝐍𝐔 👆` 
 ---------
-### `✦ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐙𝐈𝐎𝐍𝐄 Gab333`
+### `✦ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐙𝐈𝐎𝐍𝐄 333BOT`
 
 `𝐔𝐒𝐀 𝐈𝐋 𝐁𝐎𝐓𝐓𝐎𝐍𝐄 𝐏𝐄𝐑 𝐄𝐒𝐄𝐆𝐔𝐈𝐑𝐄 𝐈𝐋 𝐅𝐎𝐑𝐊` 
 
@@ -41,7 +40,7 @@
 ```bash 
  cd /sdcard && rm -rf Gab333 && git clone https://github.com/GabWT333/Gab333.git && cd Gab333
 ```
-✦ 𝐀𝐓𝐓𝐈𝐕𝐀 𝐆𝐚𝐛333 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
+✦ 𝐀𝐓𝐓𝐈𝐕𝐀 333BOT 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 
 DIGITA QUESTI COMANDI:
 
@@ -66,14 +65,14 @@ yarn
 npm start
 ```
 
-✦ 𝐀𝐕𝐕𝐈𝐀 𝐆𝐚𝐛333 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
+✦ 𝐀𝐕𝐕𝐈𝐀 333BOT 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 
 DIGITA QUESTI COMANDI:
 
 > cd /sdcard/Gab333 
 > npm start
 
-✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 𝐆𝐚𝐛333
+✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 333BOT
 
 DIGITA QUESTI COMANDI:
 
