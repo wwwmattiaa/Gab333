@@ -85,25 +85,25 @@ DIGITA QUESTI COMANDI:
 ### Staff
 <p style="display: flex; align-items: center;">
   <img src="https://qu.ax/dguVx.jpg" width="100px" height="100px" alt="Gab Owner" style="margin-right: 10px;">
-  <span style="font-size: 16px; font-weight: bold;">**Gab Owner**</span>
+  <span style="font-size: 16px; font-weight: bold;">𝐆𝐚𝐛 𝐎𝐰𝐧𝐞𝐫</span>
 </p>
 
 <p style="display: flex; align-items: center;">
   <img src="https://example.com/link_to_image_of_army.jpg" width="100px" height="100px" alt="Army" style="margin-right: 10px;">
-  <span style="font-size: 14px; font-weight: bold;">**Army**</span>
+  <span style="font-size: 14px; font-weight: bold;">𝐴𝑟𝑚𝑦</span>
 </p>
 
 <p style="display: flex; align-items: center;">
   <img src="https://qu.ax/FWOZE.jpg" width="100px" height="100px" alt="Cristo" style="margin-right: 10px;">
-  <span style="font-size: 14px; font-weight: bold;">**Cristo**</span>
+  <span style="font-size: 14px; font-weight: bold;">𝐶𝑟𝑖𝑠𝑡𝑜</span>
 </p>
 
 <p style="display: flex; align-items: center;">
-  <img src="https://example.com/link_to_image_of_amr.jpg" width="100px" height="100px" alt="Amr" style="margin-right: 10px;">
-  <span style="font-size: 14px; font-weight: bold;">**Amr**</span>
+  <img src="https://qu.ax/sisCV.jpg" width="100px" height="100px" alt="Amr" style="margin-right: 10px;">
+  <span style="font-size: 14px; font-weight: bold;">𝐴𝑚𝑟</span>
 </p>
 
 <p style="display: flex; align-items: center;">
   <img src="https://example.com/link_to_image_of_davide.jpg" width="100px" height="100px" alt="Davide" style="margin-right: 10px;">
-  <span style="font-size: 14px; font-weight: bold;">**Davide**</span>
+  <span style="font-size: 14px; font-weight: bold;">𝐷𝑎𝑣𝑖𝑑𝑒</span>
 </p>
