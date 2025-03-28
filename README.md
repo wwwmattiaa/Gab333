@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h"><img title="Author" src="https://img.shields.io/badge/Canale%20Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
 </p>
@@ -26,7 +27,7 @@
 
    <a href="https://github.com/GabWT333/Gab333/fork"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a> 
  <br> 
- - 𝐂𝐋𝐎𝐍𝐀𝐑𝐄 𝐋𝐀 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 [qui](https://github.com/GabWT333/Gab333/fork) 
+ - 𝐂𝐋𝐎𝐍𝐀𝐑𝐄 𝐋𝐀 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐄 [qui](https://github.com/GabWT333/Gab333/fork) 
  - 𝐂𝐀𝐌𝐁𝐈𝐀𝐑𝐄 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐏𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐑𝐈𝐎 [qui](https://github.com/GabWT333/Gab333/blob/master/config.js) 
 
 ### `✦ 𝐂𝐎𝐍𝐓𝐀𝐓𝐓𝐈`
