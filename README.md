@@ -1,4 +1,4 @@
-II<p align="center">
+<p align="center">
   <a href="https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h"><img title="Author" src="https://img.shields.io/badge/Canale%20Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
 </p>
 
@@ -105,6 +105,12 @@ DIGITA QUESTI COMANDI:
   <img src="https://qu.ax/sisCV.jpg" width="100px" height="100px" alt="Amr" style="margin-right: 10px;">
   <span style="font-size: 14px; font-weight: bold;">𝐴𝑚𝑟</span>
   <a href="https://wa.me/855976087045" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Chat on WhatsApp</a>
+</p>
+
+<p style="display: flex; align-items: center;">
+  <img src="https://qu.ax/GOFsn.jpg" width="100px" height="100px" alt="Cicco" style="margin-right: 10px;">
+  <span style="font-size: 14px; font-weight: bold;">𝐶𝑖𝑐𝑐𝑜</span>
+  <a href="https://wa.me/393715341918" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Chat on WhatsApp</a>
 </p>
 
 <p style="display: flex; align-items: center;">
