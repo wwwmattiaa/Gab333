@@ -113,13 +113,10 @@ DIGITA QUESTI COMANDI:
 </p>
 
 
-### ``` ARMYHOSTING ```
+### ``` ✨ARMYHOSTING✨ ```
+ 
 <p style="text-align: center; font-size: 24px; font-weight: bold; color: #333;">
   🔥 Benvenuto su ArmyHostiger: Il Tuo Hosting VPS/RDP 🔥
-</p>
-
-<p style="text-align: center;">
-  <img src="https://qu.ax/blsDp.jpg" width="150px" height="150px" alt="ArmyHostiger" style="border-radius: 10px;">
 </p>
 
 <p style="text-align: center; font-size: 16px; font-weight: normal; color: #555;">
