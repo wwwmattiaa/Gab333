@@ -19,6 +19,16 @@
 </p> 
 
 ---------
+══════ •⊰✦⊱• ══════
+𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐄 𝐃𝐈 𝐌𝐓-𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐍𝐄𝐂𝐂𝐄𝐒𝐒𝐀𝐑𝐈𝐀 𝐏𝐄𝐑 𝐋'𝐄𝐃𝐈𝐓 𝐃𝐄𝐋 𝐁𝐎𝐓
+https://mt-manager.en.softonic.com/android?psafe_param=1&utm_source=SEM&utm_medium=paid&utm_campaign=IT_Italy_DSA_mobile&gad_source=1&gclid=CjwKCAiA6aW6BhBqEiwA6KzDc6U6GJcHp-i1gZZS5OFs6OL8vXMvOx8zSo4Gm31AZcV1RgmVQgWO2BoClRIQAvD_BwE
+
+══════ •⊰✦⊱• ══════
+𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐄 𝐃𝐈 𝐓𝐄𝐑𝐌𝐔𝐗 𝐍𝐄𝐂𝐄𝐒𝐒𝐀𝐑𝐈𝐀
+https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file
+
+
+
 ### `✦ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐙𝐈𝐎𝐍𝐄 333BOT`
 
 `𝐔𝐒𝐀 𝐈𝐋 𝐁𝐎𝐓𝐓𝐎𝐍𝐄 𝐏𝐄𝐑 𝐄𝐒𝐄𝐆𝐔𝐈𝐑𝐄 𝐈𝐋 𝐅𝐎𝐑𝐊` 
