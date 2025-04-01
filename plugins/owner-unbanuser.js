@@ -16,7 +16,7 @@ async function handler(m, { conn, text }) {
     },
     message: {
       locationMessage: {
-        name: "𝐔𝐭𝐞𝐧𝐭𝐞 sbloccato",
+        name: "Utente sbloccato",
         jpegThumbnail: await (await fetch("https://telegra.ph/file/592a9dbbe01cfaecbefb8.png")).buffer(),
         vcard: `BEGIN:VCARD
 VERSION:3.0
@@ -33,7 +33,7 @@ END:VCARD`
     },
     participant: "0@s.whatsapp.net"
   };
-  conn.reply(m.chat, "𝐐𝐮𝐞𝐬𝐭𝐨 utente potrà eseguire di nuovo i comandi", vcardMessage);
+  conn.reply(m.chat, "Questo utente potrà eseguire di nuovo i comandi", vcardMessage);
 }
 
 handler.help = ['unbanuser'];
