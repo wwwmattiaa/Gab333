@@ -42,7 +42,7 @@ function start(file) {
 
   const args = [join(__dirname, file), ...process.argv.slice(2)];
 
-  animatedMessage('Ediz by Gabs', 'console', ['yellow', 'green']);
+  animatedMessage('Ediz by Gabs & 333 Staff', 'console', ['yellow', 'green']);
   console.log('🚀 Inizializzazione completata.\n');
 
   // Configurazione del cluster
