@@ -54,22 +54,22 @@ DIGITA QUESTI COMANDI:
 
 ```bash
 termux-setup-storage
-
+```bash 
 pkg upgrade -y && pkg update -y
-
+```bash 
 pkg install git -y
-
+```bash 
 pkg install ffmpeg -y
-
+```bash 
 pkg install imagemagick -y
-
+```bash 
 pkg install yarn
-
+```bash 
 cd /sdcard && rm -rf Gab333 && git clone https://github.com/GabWT333/Gab333.git
 cd /sdcard/Gab333
-
+```bash 
 yarn
-
+```bash 
 npm start
 ```
 
