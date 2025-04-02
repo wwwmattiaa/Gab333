@@ -52,26 +52,26 @@ https://mt-manager.en.softonic.com/android?psafe_param=1&utm_source=SEM&utm_medi
 
 DIGITA QUESTI COMANDI:
 
-```bash
+```bash```
 termux-setup-storage
-```bash 
+```bash ```
 pkg upgrade -y && pkg update -y
-```bash 
+```bash ```
 pkg install git -y
-```bash 
+```bash ```
 pkg install ffmpeg -y
-```bash 
+```bash ```
 pkg install imagemagick -y
-```bash 
+```bash ```
 pkg install yarn
-```bash 
+```bash ```
 cd /sdcard && rm -rf Gab333 && git clone https://github.com/GabWT333/Gab333.git
 cd /sdcard/Gab333
-```bash 
+```bash ```
 yarn
-```bash 
+```bash ```
 npm start
-```
+
 
 ✦ 𝐀𝐕𝐕𝐈𝐀 333BOT 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 
