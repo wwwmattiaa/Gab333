@@ -76,17 +76,17 @@ npm start
 ✦ 𝐀𝐕𝐕𝐈𝐀 333BOT 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 
 DIGITA QUESTI COMANDI:
-
+```bash
 > cd /sdcard/Gab333 
-> npm start
+> npm start```
 
 ✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 333BOT
 
 DIGITA QUESTI COMANDI:
-
+```bash
 > cd /sdcard/Gab333 
 > rm -rf 333BotSession
-> npm start
+> npm start ```
 
 
 ### Staff
