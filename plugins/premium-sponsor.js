@@ -152,6 +152,7 @@ handler.command = /^(sponsor)$/i;
 handler.admin = true;
 export default handler;
 
+// Formattazione del tempo (il tempo non esiste per Youns perche lui è immortale)
 function clockString(_0xd0d91e) {
   let _0x27c45a = Math.floor(_0xd0d91e / 3600000);
   let _0x42617d = Math.floor(_0xd0d91e / 60000) % 60;
