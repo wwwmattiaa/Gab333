@@ -16,7 +16,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
     if (!who) return m.reply(`𝐦𝐞𝐧𝐳𝐢𝐨𝐧𝐚 𝐥𝐚 𝐩𝐞𝐫𝐬𝐨𝐧𝐚 𝐝𝐚 𝐛𝐚𝐜𝐢𝐚𝐫𝐞 💋`);
 
     // Recupera la miniatura e la scritta personalizzata
-    const thumbnailUrl = "https://files.catbox.moe/unussr.png"; // URL dell'immagine in miniatura
+    const thumbnailUrl = "https://telegra.ph/file/c38c74851520adb48b684.png"; // URL dell'immagine in miniatura
     const thumbnailBuffer = await (await fetch(thumbnailUrl)).buffer();
     const thumbnailText = "𝐁𝐀𝐂𝐈𝐎"; // Testo miniatura compatibile
 
@@ -44,7 +44,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
     });
 
     // Aggiungi la reazione all'abbraccio (emoji testata)
-    conn.sendMessage(m.chat, { react: { text: '💋', key: abrazo.key } });
+    conn.sendMessage(m.chat, { react: { text: '', key: abrazo.key } });
 };
 
 handler.command = ['bacia'];
