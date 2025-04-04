@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="https://github.com/GabWT333/Gab333">
+    <img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=0000FF&center=false&vCenter=false&lines=333+Bot,+Bot+migliore+in+Italia.+🇮🇹" height="90px">
+  </a>
+</p>
 
 
 <p align="center">
