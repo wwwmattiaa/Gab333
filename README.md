@@ -1,4 +1,13 @@
-
+<p style="color:red;">꙰𝟥𝟥𝟥 𝔹𝕆𝕋</p>
+<p style="color:green;">꙰𝟥𝟥𝟥 𝔹𝕆𝕋</p>
+<p style="color:blue;">꙰𝟥𝟥𝟥 𝔹𝕆𝕋</p>
+<p style="color:orange;">꙰𝟥𝟥𝟥 𝔹𝕆𝕋</p>
+<p style="color:purple;">꙰𝟥𝟥𝟥 𝔹𝕆𝕋</p>
+<p style="color:cyan;">꙰𝟥𝟥𝟥 𝔹𝕆𝕋</p>
+<p style="color:magenta;">꙰𝟥𝟥𝟥 𝔹𝕆𝕋</p>
+<p style="color:yellow;">꙰𝟥𝟥𝟥 𝔹𝕆𝕋</p>
+<p style="color:gray;">꙰𝟥𝟥𝟥 𝔹𝕆𝕋</p>
+<p style="color:black;">꙰𝟥𝟥𝟥 𝔹𝕆𝕋</p>
 
 
 <p align="center">
