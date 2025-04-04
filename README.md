@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-<html lang="it">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Testo che Cambia Colore</title>
-  <style>
-    @keyframes coloreCambia {
-      0% { color: #ff0000; }
-      25% { color: #00ff00; }
-      50% { color: #0000ff; }
-      75% { color: #ff00ff; }
-      100% { color: #ff0000; }
-    }
 
-    .colore-cambia {
-      font-size: 50px;
-      font-family: 'Arial', sans-serif;
-      animation: coloreCambia 3s infinite;
-    }
-  </style>
-</head>
-<body>
-  <div class="colore-cambia">꙰𝟥𝟥𝟥 𝔹𝕆𝕋</div>
-</body>
-</html>
 
 
 <p align="center">
