@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="https://github.com/GabWT333/Gab333">
+    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2000&color=9e62d7&center=true&vCenter=true&lines=333+Bot,+Bot+migliore+in+Italia.&color=9e62d7&color=1f82f7&color=ffffff&color=f79b00&color=ff0000" height="90px">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h"><img title="Author" src="https://img.shields.io/badge/Canale%20Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
