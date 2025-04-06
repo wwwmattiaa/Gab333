@@ -67,7 +67,7 @@ if (warn > 0) {
         "participant": "0@s.whatsapp.net"
       };
       conn.reply(m.chat, `👤 » @${who.split('@')[0]}\n⚠️ » *${user.warn} / 3*`, prova, { mentions: [who] });
-    } else if (warn == 0) {
+    } else if (warn === 0) {
       m.reply("𝐋’𝐮𝐭𝐞𝐧𝐭𝐞 𝐦𝐞𝐧𝐳𝐢𝐨𝐧𝐚𝐭𝐨 𝐧𝐨𝐧 𝐡𝐚 𝐚𝐯𝐯𝐞𝐫𝐭𝐢𝐦𝐞𝐧𝐭𝐢.");
     }
   }
