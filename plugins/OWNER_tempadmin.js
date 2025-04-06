@@ -41,7 +41,7 @@ let handler = async (m, { conn, text, usedPrefix }) => {
         m.reply(`⚠️ Il tempo da admin di *@${menzione.split`@`[0]}* è terminato. È stato retrocesso. 😬`);
       }, duration);
     } catch (e) {
-      m.reply('❌ Errore durante l\'assegnazione/rimozione del ruolo di admin.');
+      m.reply("❌ Errore durante l'assegnazione/rimozione del ruolo di admin.");
       console.error(e);
     }
   } else {
