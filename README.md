@@ -10,7 +10,6 @@
   <a href="https://github.com/GabWT333/network/members"><img title="𝐅𝐨𝐫𝐤𝐬" src="https://img.shields.io/github/forks/GabWT333/Gab333?color=red&style=flat-square"></a> 
   <a href="https://komarev.com/ghpvc/?username=GabWT333&color=blue&style=flat-square&label=Profile+Visual"><img src="https://komarev.com/ghpvc/?username=GabWT333&color=blue&style=flat-square&label=Profile+Visual" /> 
   <a href="https://github.com/GabWT333/Gab333/watchers"><img title="𝐖𝐚𝐭𝐜𝐡𝐢𝐧𝐠" src="https://img.shields.io/github/watchers/GabWT333/Gab333?label=Watcher'srepo&color=blue&style=flat-square"></a> 
-  <a href="https://github.com/GabWT333/Gab333"><img title="𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a> 
   <a href="https://github.com/GabWT333/Gab333/"><img title="𝐒𝐢𝐳𝐞" src="https://img.shields.io/github/repo-size/GabWT333/Gab333?style=flat-square&color=green"></a> 
   <a href="https://github.com/GabWT333/Gab333/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a> 
   <img width="" src="https://img.shields.io/github/repo-size/GabWT333/Gab333?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor"> 
