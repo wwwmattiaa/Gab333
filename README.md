@@ -1,26 +1,3 @@
-<p align="center">
-  <span id="publish-time" style="font-weight: bold; color: green;"></span>
-</p>
-
-<script>
-  const publishedAt = new Date("2024-04-01T00:00:00Z"); // <-- Data di pubblicazione
-
-  function updatePublishTime() {
-    const now = new Date();
-    const diff = Math.floor((now - publishedAt) / 1000); // secondi
-
-    const days = Math.floor(diff / 86400);
-    const hours = Math.floor((diff % 86400) / 3600);
-    const minutes = Math.floor((diff % 3600) / 60);
-
-    const timeString = `✅ 333Bot è stato pubblicato da ${days} giorni, ${hours} ore e ${minutes} minuti fa`;
-    document.getElementById("publish-time").innerText = timeString;
-  }
-
-  updatePublishTime();
-  setInterval(updatePublishTime, 60 * 1000); // aggiorna ogni minuto
-</script>
-
 
 
 <p align="center">
