@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>333 Bot</title>
+  <script>
+    const publicationDate = new Date('2025-04-01T00:00:00');
+    const currentDate = new Date();
+    const diffTime = Math.abs(currentDate - publicationDate);
+    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+
+    window.onload = function() {
+      document.getElementById('publication-time').innerHTML = `333 Bot è stato pubblicato ${diffDays} giorni fa.`;
+    };
+  </script>
+</head>
+<body>
+
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h"><img title="Author" src="https://img.shields.io/badge/Canale%20Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
+</p>
+
+<p id="publication-time" align="center"></p>
+
+</body>
+</html>
+
+
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h"><img title="Author" src="https://img.shields.io/badge/Canale%20Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
 </p>
