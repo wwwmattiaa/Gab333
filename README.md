@@ -139,4 +139,4 @@ DIGITA QUESTI COMANDI:
   <a href="https://github.com/GabWT333/Gab333">
     <img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=0000FF&center=false&vCenter=false&lines=333Bot+presto+anche+in+altre+lingue+🇮🇹" height="90px">
   </a>
-</p><img src="https://img.shields.io/badge/Online%20da-XX%20giorni-blue?style=for-the-badge&logo=github">
+
