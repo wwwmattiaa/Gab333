@@ -1,5 +1,8 @@
 <p align="center">
-  <a href="https://www.paypal.me/Gabgithub" target="_blank">💰 Dona su PayPal - Gabgithub</a>
+  <a href="https://www.paypal.me/Gabgithub" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/PayPal_logo_2014.png" alt="PayPal" width="30" height="30">
+    💰 Dona su PayPal - Gabgithub
+  </a>
 </p>
 
 
