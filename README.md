@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/GabWT333/Gab333/main/badge.json" alt="Online da">
-</p>
+## 333Bot è online da 0 giorni
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h"><img title="Author" src="https://img.shields.io/badge/Canale%20Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
