@@ -1,15 +1,16 @@
-name: Update Online Days Badge
+name: Update Online Days in README
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"  # Ogni ora
   workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Setup Node.js
@@ -17,13 +18,13 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Run script
+      - name: Run online-days.js
         run: node online-days.js
 
-      - name: Commit badge
+      - name: Commit updated README
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add badge.json
-          git commit -m "Aggiorna badge online" || echo "Nessuna modifica"
+          git add README.md
+          git commit -m "Aggiornato numero di giorni online"
           git push
