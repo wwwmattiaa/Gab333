@@ -1,30 +1,28 @@
-name: Update Online Days in README
+import fs from 'fs';
 
-on:
-  schedule:
-    - cron: "0 * * * *"  # Ogni ora
-  workflow_dispatch:
+const startDate = new Date("2024-03-28T00:00:00Z");
+const now = new Date();
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
+const diffTime = Math.floor((now - startDate) / (1000 * 60 * 60 * 24));
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+const text = `## 333Bot è online da ${diffTime} giorni`;
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: "20"
+fs.readFile("README.md", "utf8", (err, data) => {
+  if (err) {
+    console.error("Errore nel leggere il README:", err);
+    return;
+  }
 
-      - name: Run online-days.js
-        run: node online-days.js
+  const newData = data.replace(
+    /## 333Bot è online da \d+ giorni/,
+    `## 333Bot è online da ${diffTime} giorni`
+  );
 
-      - name: Commit updated README
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "Aggiornato numero di giorni online"
-          git push
+  fs.writeFile("README.md", newData, "utf8", (err) => {
+    if (err) {
+      console.error("Errore nel scrivere il README:", err);
+    } else {
+      console.log("README aggiornato correttamente!");
+    }
+  });
+});
