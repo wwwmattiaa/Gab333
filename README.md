@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.paypal.me/Gabgithub" target="_blank">
-    <img src="https://qu.ax/JjfEo.jpeg" alt="Dona con PayPal" style="border: none; cursor: pointer; width: 90px;">
+    <img src="https://qu.ax/JjfEo.jpeg" alt="Dona con PayPal" style="border: none; cursor: pointer; width: 30px;">
   </a>
 </p>
 
