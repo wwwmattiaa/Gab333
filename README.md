@@ -1,3 +1,15 @@
+<p id="publication-time"></p>
+<script>
+  function updatePublicationTime(){
+    const publicationDate = new Date('2025-04-01T00:00:00');
+    const currentDate = new Date();
+    const diffTime = currentDate - publicationDate;
+    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    document.getElementById('publication-time').innerText = `333 Bot è stato pubblicato ${diffDays} giorni fa.`;
+  }
+  updatePublicationTime();
+  setInterval(updatePublicationTime, 3600000);
+</script>
 
 
 <p align="center">
