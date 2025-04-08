@@ -149,6 +149,11 @@ DIGITA QUESTI COMANDI:
 </p>
 
 
+## `🌟 𝐂𝐎𝐋𝐋𝐀𝐁𝐎𝐑𝐀𝐓𝐎𝐑𝐈 `  
+<a href="https://github.com/GabWT333/Gab333/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=GabWT333/Gab333" /> 
+</a>
+
 
 <p align="center">
   <a href="https://github.com/GabWT333/Gab333">
