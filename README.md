@@ -129,11 +129,6 @@ DIGITA QUESTI COMANDI:
   <a href="https://wa.me/855976087045" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Gestore Pagamenti Del Server </a>
 </p>
 
-<p style="display: flex; align-items: center;">
-  <img src="https://qu.ax/GOFsn.jpg" width="100px" height="100px" alt="Cicco" style="margin-right: 10px;">
-  <span style="font-size: 14px; font-weight: bold;">𝐶𝑖𝑐𝑐𝑜</span>
-  <a href="https://wa.me/393715341918" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Donatore Numero</a>
-</p>
 
 
 <p style="display: flex; align-items: center;">
