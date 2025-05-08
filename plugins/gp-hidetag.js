@@ -10,7 +10,6 @@ let handler = async (m, { conn, text, participants, isOwner, isAdmin }) => {
     let msg = conn.cMod(m.chat, generateWAMessageFromContent(m.chat, { [m.quoted ? q.mtype : 'extendedTextMessage']: m.quoted ? c.message[q.mtype] : { text: '' || c }}, {}), `Tag by @${m.sender.split('@')[0]}\n\n${text || q.text}`, conn.user.jid, { mentions: users })
     await conn.relayMessage(m.chat, msg.message, { messageId: msg.key.id })
   } catch {
-    
     let users = participants.map(u => conn.decodeJid(u.id))
     let quoted = m.quoted ? m.quoted : m
     let mime = (quoted.msg || quoted).mimetype || ''
