@@ -105,14 +105,14 @@ DIGITA QUESTI COMANDI:
 
 
 ### Staff
-<p> style="display: flex; align-items: center;">
+<p style="display: flex; align-items: center;">
   <img src="https://qu.ax/dguVx.jpg" width="100px" height="100px" alt="Gab Owner" style="margin-right: 10px;">
   <span style="font-size: 16px; font-weight: bold;">𝐆𝐚𝐛 𝐎𝐰𝐧𝐞𝐫</span>
   <a href="https://wa.me/639510030546" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Creatore - Owner del bot</a>
 </p>
 
 
-<p> style="display: flex; align-items: center;">
+<p style="display: flex; align-items: center;">
   <img src="https://qu.ax/FWOZE.jpg" width="100px" height="100px" alt="Cristofer" style="margin-right: 10px;">
   <span style="font-size: 14px; font-weight: bold;">𝐶𝑟𝑖𝑠𝑡𝑜𝑓𝑒𝑟</span>
   <a href="https://wa.me/393276121255" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Co-Owner</a>
@@ -121,13 +121,13 @@ DIGITA QUESTI COMANDI:
 
 
 
-<p> style="display: flex; align-items: center;">
+<p style="display: flex; align-items: center;">
   <img src="https://qu.ax/kqvUq.jpg" width="100px" height="100px" alt="Death" style="margin-right: 10px;">
   <span style="font-size: 16px; font-weight: bold;">𝐃𝐞𝐚𝐭𝐡 </span>
   <a href="https://wa.me/447365589428" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Developer ¹</a>
 </p>
 
-<p> style="display: flex; align-items: center;">
+<p style="display: flex; align-items: center;">
   <img src="https://qu.ax/GeYrT.jpg" width="100px" height="100px" alt="Davide" style="margin-right: 10px;">
   <span style="font-size: 14px; font-weight: bold;">𝔇𝔞𝔳𝔦𝔡𝔢</span>
   <a href="https://wa.me/393518419909" style="background-color: #25D366; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; margin-left: 10px;">Developer ²</a>
