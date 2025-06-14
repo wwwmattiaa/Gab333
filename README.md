@@ -95,7 +95,7 @@ DIGITA QUESTI COMANDI:
 > cd /sdcard/Gab333 
 > npm start
 
-✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 333BOT
+✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 333BOT.
 
 DIGITA QUESTI COMANDI:
 
