@@ -608,8 +608,8 @@ export async function callUpdate(callUpdate) {
  
 𝐂𝐨𝐫𝐝𝐢𝐚𝐥𝐢 𝐬𝐚𝐥𝐮𝐭𝐢.`, false, { mentions: [nk.from] }) 
     //let data = global.owner.filter(([id, isCreator]) => id && isCreator)
-    let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;𝐃𝐀𝑽𝕀𝐃𝚵;;;\nFN:𝐃𝐀𝑽𝕀𝐃𝚵\nORG:𝐃𝐀𝑽𝕀𝐃𝚵\nTITLE:\nitem1.TEL;waid=393518419909:+39 351 841 9909\nitem1.X-ABLabel:𝐃𝐀𝑽𝕀𝐃𝚵\nX-WA-BIZ-DESCRIPTION:ofc\nX-WA-BIZ-NAME:𝐃𝐀𝑽𝕀𝐃𝚵\nEND:VCARD`
-    await this.sendMessage(nk.from, { contacts: { displayName: '𝐃𝐀𝑽𝕀𝐃𝚵', contacts: [{ vcard }] }}, {quoted: callmsg})
+    let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;Gab;;;\nFN:Gab\nORG:Gab\nTITLE:\nitem1.TEL;waid=393509368693:+39 350 936 8693\nitem1.X-ABLabel:Gab\nX-WA-BIZ-DESCRIPTION:ofc\nX-WA-BIZ-NAME:Gab\nEND:VCARD`
+    await this.sendMessage(nk.from, { contacts: { displayName: 'Gav', contacts: [{ vcard }] }}, {quoted: callmsg})
     await this.updateBlockStatus(nk.from, 'block')
     }
     }
