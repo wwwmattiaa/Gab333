@@ -82,6 +82,7 @@ pkg install imagemagick -y
 pkg install yarn
 
 cd /sdcard && rm -rf Gab333 && git clone https://github.com/GabWT333/Gab333.git
+
 cd /sdcard/Gab333
 
 yarn
