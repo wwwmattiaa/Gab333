@@ -1,7 +1,7 @@
 
 <p style="text-align: left;">
   <a href="https://www.paypal.me/Gabgithub" target="_blank">
-    <img src="https://qu.ax/JjfEo.jpeg" alt="Dona con PayPal" style="border: none; cursor: pointer; width: 50px; display: inline-block;">
+    <img src="https://qu.ax/JjfEo.png" alt="Dona con PayPal" style="border: none; cursor: pointer; width: 50px; display: inline-block;">
   </a>
   <span style="font-size: 16px; margin-left: 5px;"></span>
 </p>
