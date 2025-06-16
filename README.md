@@ -118,7 +118,7 @@ cd /sdcard && rm -rf Gab333 && git clone https://github.com/GabWT333/Gab333.git 
 |-------------|------|
 | 📢 **Canale WhatsApp** | [Clicca qui](https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h) |
 | 💬 **Gruppo WhatsApp** | [Clicca qui](https://chat.whatsapp.com/JhrcigFtXpW4OzdhE9Jdq3) |
-| 📱 **Contatto Diretto** | [+39 376 203 0481](https://wa.me/393762030481) |
+| 📱 **Contatto Diretto** | [+39 350 936 8693](https://wa.me/+393509368693) |
 | 📷 **Instagram** | [@insta_gqbri](https://www.instagram.com/insta_gqbri) |
 | 💰 **Donazioni** | [PayPal](https://www.paypal.me/Gabgithub) |
 
