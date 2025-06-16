@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![333BOT Logo](https://qu.ax/irkJC.jpg)
+![333BOT Logo](https://qu.ax/fAdes.jpg)
 
 **Un bot WhatsApp potente e versatile per la tua esperienza di messaggistica**
 
