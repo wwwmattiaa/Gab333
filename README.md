@@ -75,15 +75,14 @@ pkg upgrade -y && pkg update -y
 pkg install git -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
-pkg install yarn -y
+yarn install -y 
 
 # Clonazione repository
 cd /sdcard && rm -rf Gab333 && git clone https://github.com/GabWT333/Gab333.git
 
 # Installazione bot
 cd /sdcard/Gab333
-yarn
-npm start
+yarn start
 ```
 
 ---
@@ -93,14 +92,14 @@ npm start
 ### 🟢 **Avviare 333BOT**
 ```bash
 cd /sdcard/Gab333
-npm start
+yarn start
 ```
 
 ### 🔄 **Ottenere un nuovo codice QR**
 ```bash
 cd /sdcard/Gab333
 rm -rf 333BotSession
-npm start
+yarn start
 ```
 
 ### ⚡ **Installazione Rapida (One-Line)**
