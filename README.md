@@ -1,47 +1,43 @@
-# 🤖 333BOT - WhatsApp Bot Avanzato
+<p style="text-align: left;">
+  <a href="https://www.paypal.me/Gabgithub" target="_blank">
+    <img src="https://qu.ax/JjfEo.png" alt="Dona con PayPal" style="border: none; cursor: pointer; width: 50px; display: inline-block;">
+  </a>
+  <span style="font-size: 16px; margin-left: 5px;"></span>
+</p>
 
-<div align="center">
+<p style="text-align: left;">
+  <a href="https://www.instagram.com/insta_gqbri" target="_blank">
+    <img src="https://qu.ax/eNgUZ.png" alt="Instagram" style="border: none; cursor: pointer; width: 50px; display: inline-block;">
+  </a>
+  <span style="font-size: 16px; margin-left: 5px;"></span>
+</p>
 
-![333BOT Logo](https://qu.ax/irkJC.jpg)
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h"><img title="Author" src="https://img.shields.io/badge/Canale%20Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
+</p>
 
-**Un bot WhatsApp potente e versatile per la tua esperienza di messaggistica**
+<p align="center"> 
+  <a href="https://github.com/GabWT333/followers"><img title="𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬" src="https://img.shields.io/github/followers/GabWT333?color=red&style=flat-square"></a> 
+  <a href="https://github.com/GabWT333/Gab333/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GabWT333?color=blue&style=flat-square"></a> 
+  <a href="https://github.com/GabWT333/network/members"><img title="𝐅𝐨𝐫𝐤𝐬" src="https://img.shields.io/github/forks/GabWT333/Gab333?color=red&style=flat-square"></a> 
+  <a href="https://komarev.com/ghpvc/?username=GabWT333&color=blue&style=flat-square&label=Profile+Visual"><img src="https://komarev.com/ghpvc/?username=GabWT333&color=blue&style=flat-square&label=Profile+Visual" /> 
+  <a href="https://github.com/GabWT333/Gab333/watchers"><img title="𝐖𝐚𝐭𝐜𝐡𝐢𝐧𝐠" src="https://img.shields.io/github/watchers/GabWT333/Gab333?label=Watcher'srepo&color=blue&style=flat-square"></a> 
+  <a href="https://github.com/GabWT333/Gab333/"><img title="𝐒𝐢𝐳𝐞" src="https://img.shields.io/github/repo-size/GabWT333/Gab333?style=flat-square&color=green"></a> 
+  <a href="https://github.com/GabWT333/Gab333/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a> 
+  <img width="" src="https://img.shields.io/github/repo-size/GabWT333/Gab333?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor"> 
+</p> 
 
-[![Donazioni PayPal](https://img.shields.io/badge/PayPal-Dona-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/Gabgithub)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/insta_gqbri)
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Canale%20Ufficiale-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VauhQviCsU9Ibrwlkb0h)
-
-</div>
+<p align="center"> 
+  <img width="" src="https://qu.ax/irkJC.jpg"> 
+</p>
 
 ---
 
-## 📊 **Statistiche Repository**
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/GabWT333?color=red&style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/github/stars/GabWT333/Gab333?color=yellow&style=for-the-badge&logo=github)
-![Forks](https://img.shields.io/github/forks/GabWT333/Gab333?color=green&style=for-the-badge&logo=github)
-![Watchers](https://img.shields.io/github/watchers/GabWT333/Gab333?color=blue&style=for-the-badge&logo=github)
-
-![Profile Views](https://komarev.com/ghpvc/?username=GabWT333&color=blueviolet&style=for-the-badge&label=Profile+Views)
-![Repo Size](https://img.shields.io/github/repo-size/GabWT333/Gab333?color=orange&style=for-the-badge&logo=github)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)
-
-</div>
-
----
-
-## 🚀 **Installazione Rapida**
-
-### 📱 **Prerequisiti**
-
-Prima di iniziare, assicurati di avere:
-
-1. **MT Manager** (per modificare il bot)
-   - 📥 [Scarica MT Manager](https://mt-manager.en.softonic.com/android)
-
-2. **Termux** (versione specifica richiesta)
-   - 📥 [Scarica Termux v0.119.1](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file)
+---------
+══════ •⊰✦⊱• ══════
+𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐄 𝐃𝐈 𝐌𝐓-𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐍𝐄𝐂𝐂𝐄𝐒𝐒𝐀𝐑𝐈𝐀 𝐏𝐄𝐑 𝐋'𝐄𝐃𝐈𝐓 𝐃𝐄𝐋 𝐁𝐎𝐓
+https://mt-manager.en.softonic.com/android?psafe_param=1&utm_source=SEM&utm_medium=paid&utm_campaign=IT_Italy_DSA_mobile&gad_source=1&gclid=CjwKCAiA6aW6BhBqEiwA6KzDc6U6GJcHp-i1gZZS5OFs6OL8vXMvOx8zSo4Gm31AZcV1RgmVQgWO2BoClRIQAvD_Bw
+══════ •⊰✦⊱• ══════
 
 ---
 
