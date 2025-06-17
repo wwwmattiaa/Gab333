@@ -15,15 +15,6 @@ let handler = async (message, { conn, usedPrefix }) => {
     ? conn.user.jid
     : message.sender;
 
-  // Immagine del profilo di chi usa il comando
-  const profilePicUrl = (await conn.profilePictureUrl(targetJid, "image").catch(() => null)) || "./src/avatar_contact.png";
-  let profilePicBuffer;
-  if (profilePicUrl !== "./src/avatar_contact.png") {
-    profilePicBuffer = await (await fetch(profilePicUrl)).buffer();
-  } else {
-    profilePicBuffer = await (await fetch("https://telegra.ph/file/22b3e3d2a7b9f346e21b3.png")).buffer();
-  }
-
   const botName = global.db.data.nomedelbot || "꙰ 𝟥𝟥𝟥 ꙰ 𝔹𝕆𝕋 ꙰";
 
   // Formattazione speciale dei comandi
@@ -46,7 +37,7 @@ let handler = async (message, { conn, usedPrefix }) => {
 🌟 *𝑽𝑬𝑹𝑺𝑰𝑶𝑵𝑬:* ${vs}
 `.trim();
 
-  // Invio del menu con immagine e stile migliorato
+  // Invio del menu senza immagine
   await conn.sendMessage(message.chat, {
     text: commandList,
     contextInfo: {
@@ -57,15 +48,6 @@ let handler = async (message, { conn, usedPrefix }) => {
         newsletterJid: '120363341274693350@newsletter',
         serverMessageId: '',
         newsletterName: botName
-      },
-      externalAdReply: {
-        title: senderName,
-        body: `⚙️ 𝑽𝒆𝒓𝒔𝒊𝒐𝒏𝒆 𝑩𝒐𝒕: ${vs}`,
-        mediaType: 1,
-        renderLargerThumbnail: false,
-        previewType: "PHOTO",
-        thumbnail: profilePicBuffer,
-        sourceUrl: 'ok'
       }
     }
   });
