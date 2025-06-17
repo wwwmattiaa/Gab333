@@ -42,25 +42,11 @@ let handler = async (message, { conn, usedPrefix }) => {
     antiviewonce
   } = chatData;
 
-  let targetUser = message.quoted ? message.quoted.sender :
-                   message.mentionedJid?.[0] ? message.mentionedJid[0] :
-                   message.fromMe ? conn.user.jid : message.sender;
-
-  const profilePic = (await conn.profilePictureUrl(targetUser, "image").catch(() => null)) || "./src/avatar_contact.png";
-  let thumbnail;
-
-  if (profilePic !== "./src/avatar_contact.png") {
-    thumbnail = await (await fetch(profilePic)).buffer();
-  } else {
-    thumbnail = await (await fetch("https://qu.ax/cSqEs.jpg")).buffer();
-  }
-
   let quotedMessage = {
     key: { participants: "0@s.whatsapp.net", fromMe: false, id: "Halo" },
     message: {
       locationMessage: {
-        name: "𝐌𝐞𝐧𝐮 𝐝𝐞𝐥𝐥𝐞 𝐟𝐮𝐧𝐳𝐢𝐨𝐧𝐚𝐥𝐢𝐭𝐚'",
-        jpegThumbnail: await (await fetch("https://qu.ax/cSqEs.jpg")).buffer()
+        name: "𝐌𝐞𝐧𝐮 𝐝𝐞𝐥𝐥𝐞 𝐟𝐮𝐧𝐳𝐢𝐨𝐧𝐚𝐥𝐢𝐭𝐚'"
       }
     },
     participant: "0@s.whatsapp.net"
