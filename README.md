@@ -1,10 +1,6 @@
-
-
 <div align="center">
 
-![333BOT Logo](https://qu.ax/fAdes.jpg)
-
-
+<img src="https://qu.ax/fAdes.jpg" alt="333BOT Logo" width="200">
 
 [![Donazioni PayPal](https://img.shields.io/badge/PayPal-Dona-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/Gabgithub)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/insta_gqbri)
